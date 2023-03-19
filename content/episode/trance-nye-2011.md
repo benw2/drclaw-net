@@ -1,7 +1,7 @@
 +++
 Description = "Trance NYE 2011"
 Date = 2012-04-03T11:07:17+00:00
-podcast_file = "https://drclaw.net/sets/DrClaw%20NYE%202011.mp3"
+podcast_file = "DrClaw%20NYE%202011.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/default.jpg"

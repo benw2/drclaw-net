@@ -1,7 +1,7 @@
 +++
 Description = "Bear Set 009"
 Date = 2014-05-18T06:17:09+00:00
-podcast_file = "https://drclaw.net/sets/DrClaw%20-%20Bear%20Set%20009%20-%20Kat's%20Birthday%20Set%202014%20V2.0.mp3"
+podcast_file = "DrClaw%20-%20Bear%20Set%20009%20-%20Kat's%20Birthday%20Set%202014%20V2.0.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/bear-set-009.png"

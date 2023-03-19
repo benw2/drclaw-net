@@ -1,7 +1,7 @@
 +++
 Description = "CptnKase Set 019"
 Date = 2019-08-09T07:03:41+00:00
-podcast_file = "https://drclaw.net/sets/DrClaw%20-%20CptnKase%20Set%20(019).mp3"
+podcast_file = "DrClaw%20-%20CptnKase%20Set%20(019).mp3"
 podcast_duration = "1:38:08"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/cptnkase-set-019.png"

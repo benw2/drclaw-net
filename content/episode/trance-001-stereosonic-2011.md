@@ -1,7 +1,7 @@
 +++
 Description = "Trance 001 Stereosonic 2011"
 Date = 2012-04-03T09:59:30+00:00
-podcast_file = "https://drclaw.net/sets/Steph's%20Birthday%20Set%202011.mp3"
+podcast_file = "Steph's%20Birthday%20Set%202011.mp3"
 podcast_duration = "1:48:58"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/default.jpg"

@@ -1,7 +1,7 @@
 +++
 Description = "Kat's Birthday Set 2012-02-25"
 Date = 2012-04-03T11:36:24+00:00
-podcast_file = "https://drclaw.net/sets/Kat's%20Set%202012-02-25/Kat's%20Birthday%20Set%202012-02-25.mp3"
+podcast_file = "Kat's%20Set%202012-02-25/Kat's%20Birthday%20Set%202012-02-25.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/default.jpg"

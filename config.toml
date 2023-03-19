@@ -1,20 +1,27 @@
-baseURL = 'http://drclaw.net/'
-languageCode = 'en-us'
-title = 'DrClaw.net'
-theme = 'castanet'
+baseURL = "http://drclaw.net/"
+languageCode = "en-us"
+title = "DrClaw.net"
+theme = "castanet"
+googleAnalytics = ""
+# themesdir = "../.."
+paginate = "15"
 
 [params]
-  site_theme = 'blue'
-  site_layout = 'grid'
+  site_theme = "blue"
+  site_layout = "grid"
+  mainSections = ["episode"]
+  description = "A collection of sets that I have produced over the years"
+  copyright_notice = "Copyright 2023 drclaw.net"
+  media_prefix = "https://drclaw.net/sets/"
+  # about_logo = "img/drclaw-logo.jpg"
 
 [taxonomies]
   category = "categories"
-  series = "series"
-  tag = "tags"
 
 [params.authors]
   [params.authors.DrClaw]
     name	= "DrClaw"
+    thumbnail = "img/drclaw-logo.jpg"
 
 [[Menu.Main]]
     name = "About"
@@ -25,3 +32,15 @@ theme = 'castanet'
     name = "Categories"
     identifier = "categories"
     url = "categories"
+
+  [params.feed]
+    copyright = "Copyright 2023 DrClaw" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "The best podcast ever" #no markdown or HTML
+    itunes_author = "DrClaw" #no markdown or HTML
+    itunes_summary = "Random tunes"
+    itunes_owner_name = "DrClaw"
+    itunes_owner_email = "drclaw@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
+    itunes_image = "" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    language = "en-us"
+    explicit = "yes"

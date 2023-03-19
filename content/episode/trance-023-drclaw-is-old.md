@@ -1,7 +1,7 @@
 +++
 Description = "Trance 023 (DrClaw is Old)"
 Date = 2020-07-01T09:53:35+00:00
-podcast_file = "https://drclaw.net/sets/DrClaw%20-%20Trance%20023%20-%20DrClaw%20is%20old.mp3"
+podcast_file = "DrClaw%20-%20Trance%20023%20-%20DrClaw%20is%20old.mp3"
 podcast_duration = "4:00:54"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/trance-023.png"

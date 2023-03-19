@@ -1,7 +1,7 @@
 +++
 Description = "Trance Old Skool 002 (Trance 011)"
 Date = 2014-09-20T08:21:19+00:00
-podcast_file = "https://drclaw.net/sets/DrClaw%20-%20Trance%20Old%20Skool%20002%20(Trance%20011).mp3"
+podcast_file = "DrClaw%20-%20Trance%20Old%20Skool%20002%20(Trance%20011).mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/trance-old-skool-002.jpg"

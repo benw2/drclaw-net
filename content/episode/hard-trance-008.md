@@ -1,7 +1,7 @@
 +++
 Description = "Hard Trance 008"
 Date = 2014-07-31T07:53:24+00:00
-podcast_file = "https://drclaw.net/sets/DrClaw%20-%20Hard%20Trance%20008.mp3"
+podcast_file = "DrClaw%20-%20Hard%20Trance%20008.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/hard-trance-008.jpg"
