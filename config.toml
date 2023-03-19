@@ -15,6 +15,11 @@ paginate = "15"
   media_prefix = "https://drclaw.net/sets/"
   # about_logo = "img/drclaw-logo.jpg"
 
+  [params.realfavicongenerator] # https://realfavicongenerator.net/
+    mask_icon_color="#5bbad5"
+    msapplication_tilecolor="#da532c"
+    theme_color="#ffffff"
+
 [taxonomies]
   category = "categories"
 
