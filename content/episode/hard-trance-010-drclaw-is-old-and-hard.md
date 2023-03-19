@@ -1,7 +1,7 @@
 +++
 Description = "Hard Trance 010 - DrClaw is Old and Hard"
 Date = 2021-03-06T06:13:33+00:00
-podcast_file = "https://www.drclaw.net/sets/DrClaw%20-%20Hard%20Trance%20010%20-%20DrClaw%20is%20Old%20and%20Hard.mp3"
+podcast_file = "DrClaw%20-%20Hard%20Trance%20010%20-%20DrClaw%20is%20Old%20and%20Hard.mp3"
 podcast_duration = "3:51:52"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/hard-trance-010.png"
