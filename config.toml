@@ -1,0 +1,27 @@
+baseURL = 'http://drclaw.net/'
+languageCode = 'en-us'
+title = 'DrClaw.net'
+theme = 'castanet'
+
+[params]
+  site_theme = 'blue'
+  site_layout = 'grid'
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params.authors]
+  [params.authors.DrClaw]
+    name	= "DrClaw"
+
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
+[[Menu.Main]]
+    name = "Categories"
+    identifier = "categories"
+    url = "categories"
