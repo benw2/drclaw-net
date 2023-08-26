@@ -12,7 +12,7 @@ paginate = "15"
   mainSections = ["episode"]
   description = "A collection of sets that I have produced over the years"
   copyright_notice = "Copyright 2023 drclaw.net"
-  media_prefix = "https://drclaw.net/sets/"
+  media_prefix = "https://sets.drclaw.net/"
   # about_logo = "img/drclaw-logo.jpg"
 
 [params.realfavicongenerator] # https://realfavicongenerator.net/
