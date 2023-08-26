@@ -1,7 +1,7 @@
 +++
 Description = "Kat's Birthday Set 2012-02-25"
 Date = 2012-04-03T11:36:24+00:00
-podcast_file = "Kat's%20Set%202012-02-25/Kat's%20Birthday%20Set%202012-02-25.mp3"
+podcast_file = "Kat's%20Birthday%20Set%202012-02-25.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/default.jpg"
@@ -14,7 +14,6 @@ categories = ["Trance"]
 +++
 
 Here's the set I sorted out for my ladyFriend's Unofficial Birthday Gathering
-
 
 ```
 ## - Track Title - Artist
