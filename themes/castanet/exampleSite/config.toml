@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "HugoCast"
 theme = "castanet"
 googleAnalytics = ""
-# themesdir = "../.."
+themesdir = "../.."
 paginate = "9"
 buildFuture = true
 
@@ -82,7 +82,7 @@ site_layout = "row"
 show_next_upcoming = "true"
 enable_jumbo = "true"
 # enable_jumbo = "false"
-# disable_title_caps = "true"
+disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
 copyright_notice = "Copyright 2016 [Matt Stratton](https://www.mattstrattion.io)"
@@ -146,6 +146,8 @@ disqusShortname = ""
     linkedin = "https://www.linkedin.com/company/linkedin/"
     #linkedin = "mattstratton"
     twitch = "mattstratton"
+    mastodon = "https://hachyderm.io/@mattstratton"
+    threads = "mattstratton"
 
   [params.authors]
     [params.authors.Matt]

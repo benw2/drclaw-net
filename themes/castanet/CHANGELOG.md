@@ -1,5 +1,82 @@
 # Changelog
 
+## [1.22.10](https://github.com/mattstratton/castanet/tree/1.22.10) (2024-01-05)
+
+## [1.22.9](https://github.com/mattstratton/castanet/tree/1.22.9) (2024-01-05)
+
+**Fixed bugs:**
+
+- \[BUG\] - Netlify build on sample site is not working [\#416](https://github.com/mattstratton/castanet/issues/416)
+- Fix Netlify build for sample site [\#418](https://github.com/mattstratton/castanet/pull/418) ([mattstratton](https://github.com/mattstratton))
+
+## [1.22.8](https://github.com/mattstratton/castanet/tree/1.22.8) (2024-01-05)
+
+## [1.22.7](https://github.com/mattstratton/castanet/tree/1.22.7) (2024-01-05)
+
+## [1.22.6](https://github.com/mattstratton/castanet/tree/1.22.6) (2024-01-05)
+
+**Fixed bugs:**
+
+- This is a pretend bug to test the changelog generator [\#417](https://github.com/mattstratton/castanet/issues/417)
+
+## [1.22.5](https://github.com/mattstratton/castanet/tree/1.22.5) (2024-01-05)
+
+## [1.22.4](https://github.com/mattstratton/castanet/tree/1.22.4) (2024-01-05)
+
+## [1.22.3](https://github.com/mattstratton/castanet/tree/1.22.3) (2024-01-05)
+
+## [1.22.2](https://github.com/mattstratton/castanet/tree/1.22.2) (2024-01-05)
+
+**Closed issues:**
+
+- Update CONTRIBUTING.md to remove Codekit references [\#311](https://github.com/mattstratton/castanet/issues/311)
+- Remove unnecessary files from release archive [\#303](https://github.com/mattstratton/castanet/issues/303)
+
+## [1.22.1](https://github.com/mattstratton/castanet/tree/1.22.1) (2024-01-04)
+
+## [1.22.0](https://github.com/mattstratton/castanet/tree/1.22.0) (2024-01-04)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - add support for Threads [\#411](https://github.com/mattstratton/castanet/issues/411)
+- Add support for Threads [\#412](https://github.com/mattstratton/castanet/pull/412) ([mattstratton](https://github.com/mattstratton))
+
+## [1.21.9](https://github.com/mattstratton/castanet/tree/1.21.9) (2023-12-29)
+
+## [1.21.8](https://github.com/mattstratton/castanet/tree/1.21.8) (2023-12-22)
+
+## [1.21.7](https://github.com/mattstratton/castanet/tree/1.21.7) (2023-12-22)
+
+**Fixed bugs:**
+
+- \[BUG\] - cannot build in grid mode on newer Hugo versions [\#406](https://github.com/mattstratton/castanet/issues/406)
+
+## [1.21.6](https://github.com/mattstratton/castanet/tree/1.21.6) (2023-04-17)
+
+## [1.21.5](https://github.com/mattstratton/castanet/tree/1.21.5) (2023-04-17)
+
+## [1.21.4](https://github.com/mattstratton/castanet/tree/1.21.4) (2023-04-17)
+
+## [1.21.3](https://github.com/mattstratton/castanet/tree/1.21.3) (2023-04-17)
+
+## [1.21.2](https://github.com/mattstratton/castanet/tree/1.21.2) (2023-04-17)
+
+## [1.21.1](https://github.com/mattstratton/castanet/tree/1.21.1) (2023-04-17)
+
+## [1.21.0](https://github.com/mattstratton/castanet/tree/1.21.0) (2023-04-17)
+
+## [1.20.0](https://github.com/mattstratton/castanet/tree/1.20.0) (2023-04-17)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - Add Mastodon to the Social options [\#392](https://github.com/mattstratton/castanet/issues/392)
+- \[ENHANCEMENT\] - Can we make an option to have youtube be a link on the main page just like spotify et al? [\#364](https://github.com/mattstratton/castanet/issues/364)
+- Add support for Mastodon for social links \(site, host, and guest\) [\#404](https://github.com/mattstratton/castanet/pull/404) ([mattstratton](https://github.com/mattstratton))
+
+**Fixed bugs:**
+
+- \[BUG\] - readme.md is out of date [\#403](https://github.com/mattstratton/castanet/issues/403)
+
 ## [1.19.0](https://github.com/mattstratton/castanet/tree/1.19.0) (2022-08-10)
 
 **Implemented enhancements:**
@@ -96,7 +173,6 @@
 - Add episode numbers/prefix in RSS and Relevant Titles/Links \[Attempt \#2\] [\#322](https://github.com/mattstratton/castanet/pull/322) ([chrisreddington](https://github.com/chrisreddington))
 - Initial implementation for pronouns [\#312](https://github.com/mattstratton/castanet/pull/312) ([chrisreddington](https://github.com/chrisreddington))
 - Create skeleton of blog feature [\#310](https://github.com/mattstratton/castanet/pull/310) ([mattstratton](https://github.com/mattstratton))
-- Add Functionality: Show next upcoming episode [\#309](https://github.com/mattstratton/castanet/pull/309) ([chrisreddington](https://github.com/chrisreddington))
 
 **Fixed bugs:**
 
@@ -112,6 +188,10 @@
 - Test with matrix build [\#321](https://github.com/mattstratton/castanet/pull/321) ([mattstratton](https://github.com/mattstratton))
 
 ## [1.13.0](https://github.com/mattstratton/castanet/tree/1.13.0) (2020-12-01)
+
+**Implemented enhancements:**
+
+- Add Functionality: Show next upcoming episode [\#309](https://github.com/mattstratton/castanet/pull/309) ([chrisreddington](https://github.com/chrisreddington))
 
 ## [1.12.1](https://github.com/mattstratton/castanet/tree/1.12.1) (2020-12-01)
 
@@ -398,7 +478,7 @@
 
 **Fixed bugs:**
 
-- Sidebar doesn't show if `enable\_jumbo` doesn't exist [\#167](https://github.com/mattstratton/castanet/issues/167)
+- Sidebar doesn't show if `enable_jumbo` doesn't exist [\#167](https://github.com/mattstratton/castanet/issues/167)
 - Grid spills to second page without filling bottom row [\#164](https://github.com/mattstratton/castanet/issues/164)
 - \[Bug\] iTunes/android/Soundcloud subscribe image icons broken [\#155](https://github.com/mattstratton/castanet/issues/155)
 - \[Bug\] stitcher not sticher. Typo in config.toml variable [\#154](https://github.com/mattstratton/castanet/issues/154)

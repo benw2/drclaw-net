@@ -69,6 +69,12 @@
             {{ with .Params.Twitch }}
               {{ partial "social-link.html" (dict "context" . "aclass" "" "iclass" "fab fa-twitch fa-2x" "prefix" "https://twitch.tv/" "text" "") }}
             {{ end }}
+            {{ with .Params.Mastodon }}
+              {{ partial "social-link.html" (dict "context" . "aclass" "" "iclass" "fab fa-mastodon fa-2x" "prefix" "" "text" "") }}
+            {{ end }}
+            {{ with .Params.Threads }}
+              {{ partial "social-link.html" (dict "context" . "aclass" "" "iclass" "fa-brands fa-square-threads fa-2x" "prefix" "https://threads.net/@" "text" "") }}
+            {{ end }}
         </div>
       </div>
       {{ end }}
