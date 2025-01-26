@@ -102,7 +102,7 @@ Refer to https://realfavicongenerator.net/ for more details.
 
 ### Social Parameters
 
-These are the social network parameters for your overall site. They should be set under `[params.social]` and all of them allow either the short form (e.g. just your twitter handle) where the theme will construct the URL or the full URL beginning with https://
+These are the social network parameters for your overall site. They should be set under `[params.social]` and all of them allow either the short form (e.g. just your twitter handle) where the theme will construct the URL or the full URL beginning with https:// (with the exception of Mastodon, as that does not have a common url scheme)
 
 | Field Name       | Required | Description                                                                                                      | Example              |
 |------------------|----------|------------------------------------------------------------------------------------------------------------------|----------------------|
@@ -118,6 +118,8 @@ These are the social network parameters for your overall site. They should be se
 | `youtube`        | No       | Name of the YouTube channel.                                                                                     | "arresteddevops"     |
 | `linkedin`       | No       | LinkedIn profile name. This is the part that comes after the `https://www.linkedin.com/in/` in your profile URL. | "mattstratton"       |
 | `twitch`         | No       | Twitch channel/profile for your site. This is the part that comes after `https://twitch.tv/`                     | "mattstratton"       |
+| `mastodon`         | No       | Mastodon account for your site. This needs to be the fully qualified URL including `https`                     | "https://hachyderm.io/@mattstratton"       |
+| `threads`         | No       | Threads account for your site. Account name without the `@`                     | "mattstratton"       |
 
 ### Giscus Parameters
 
@@ -171,7 +173,8 @@ You also will set the social parameters (all are optional) under `[params.author
 | `twitch`    | No       | Name of the user's Twitch profile.                                                                               | mattstratton                   |
 | `linkedin`  | No       | LinkedIn profile name. This is the part that comes after the `https://www.linkedin.com/in/` in your profile URL. | "mattstratton"                 |
 | `homepage`  | No       | The user's website, including the `http` at the beginning.                                                       | "https://www.mattstratton.com" |
-
+| `mastodon`  | No       | The user's Mastodon URL, including the `https` at the beginning.                                                       | "https://hachyderm.io/@mattstratton" |
+| `threads`         | No       | Threads account the user. Account name without the `@`                     | "mattstratton"       |
 
 ### Link Parameters
 
@@ -299,7 +302,7 @@ A blog file takes the following structure:
 +++
 Description = "Another blog post!"
 Date = 2020-11-12T13:33:18-06:00
-PublishDate = 2020-11-12T13:33:18-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2020-11-12T13:33:18-06:00 # this is the datetime for the when the episode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 title = "My second blog"
 images = ["img/episode/default-social.jpg"]
 blog_image = "img/episode/default.jpg"
@@ -391,9 +394,9 @@ Graphical user interface influencer value proposition startup hackathon iPad ana
 | `guid`             | No       | A fixed, globally unique identifier for the episode which should never change. If one is not specified the URL of the `podcast_file` will be used instead.                                                                                                        | "aae20190418"                                                                                                                                                                                                                         |
 | `transcript`       | No       | The path to the transcript file. The file can have Markdown or be in HTML. It must be relative to the root of your site (this is a file path, not a URL). It is recommended to put them in your `static` directory so that Hugo doesn't try to process them.      | "/static/transcripts/chatops.txt" |
 | `upcoming`       | No       | Boolean value if the episode should be considered "upcoming" and not published. Values include `true` or `false`. If set to `true`, the episode will not show up in episode lists (including guest and host pages) and will not be part of the feed. Upcoming episodes will be listed on the "Upcoming" page if created.      | true |
-| `categories[]`       | No       | If you are using taxonomies, this is the array of categories for the epsiode.     | ["Virtual Reality"] |
-| `series[]`       | No       | If you are using taxonomies, this is the array of series for the epsiode.     | ["Modern Tech Trends"] |
-| `tags[]`       | No       | If you are using taxonomies, this is the array of tags for the epsiode.     | ["VR", "Technology"] |
+| `categories[]`       | No       | If you are using taxonomies, this is the array of categories for the episode.     | ["Virtual Reality"] |
+| `series[]`       | No       | If you are using taxonomies, this is the array of series for the episode.     | ["Modern Tech Trends"] |
+| `tags[]`       | No       | If you are using taxonomies, this is the array of tags for the episode.     | ["VR", "Technology"] |
 ### Upcoming Episodes
 
 If you would like to display upcoming episodes, you need to do a couple things. First, you will need to create a page where the upcoming episodes will be listed. You can check out `exampleSite` for an example, but basically, you want to create `content/upcoming/_index.md`.
@@ -445,6 +448,8 @@ Spoon fresh pie ingredients groceries oranges luncheon farm. Broth chick peas Ch
 | `Instagram` | No       | Instagram profile name.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | "mattstratton"                 |
 | `YouTube`   | No       | YouTube profile/channel name                                                                                                                                                                                                                                                                                                                                                                                                                                                                | "mattstratton"                 |
 | `Twitch`   | No       | Twitch profile/channel name                                                                                                                                                                                                                                                                                                                                                                                                                                                                | "mattstratton"                 |
+| `Mastodon`  | No       | The user's Mastodon URL, including the `https` at the beginning.                                                       | "https://hachyderm.io/@mattstratton" |
+| `Threads`         | No       | Threads account the user. Account name without the `@`                     | "mattstratton"       |
 | `Aka`       | No       | **DEPRECATED - use `guest_group` instead.** The name(s) of another guest file which is an alternate identity for this guest (for example, if the bio changes, name changes, etc). This should be set in both directions (i.e., the `Aka` field should be set on `mstratton.md` and `mstratton2.md` pointing to each other).                                                                                                                                                                                                                | Aka = ["jsmith", "jsmith2"]                   |
 | `guest_group`       | No       | Set to an identifier to mark guests as being different versions of the same person. Only the most recent file in a guest group will appear on the Guests page. Additionally, all members of a guest group will display the same "other episodes" on guest pages.                                                                                                                                                                                                               | "mattstratton"                   |
 
