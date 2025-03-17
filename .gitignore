@@ -1,0 +1,16 @@
+# Hugo build output
+/public/
+/resources/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# IDE-specific files
+.vscode/
+
+# Hugo configuration cache
+hugo_stats.json
+.hugo_build.lock
