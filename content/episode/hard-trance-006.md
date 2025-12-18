@@ -17,7 +17,10 @@ Well this set has had another reincarnation, as unfortunately I wasn't paying at
 
 Anyway, here you go 🙂 Feedback welcome 🙂
 
-Tracklist :
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Hard%20Trance%20006%20V2.0.mp3)
+
+Tracklist:
+
 ```
 ## - Title - Artist
 01 - El Viendo (Martin Eyerer Remix) - Dj Hinx

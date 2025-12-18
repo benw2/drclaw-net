@@ -14,7 +14,9 @@ categories = ["Hard Trance"]
 
 Here's the matching Hard Trance set from my birthday. The 2nd hour doesn't have the best mixing i've ever done, but you'll get over it 😉 Enjoy!
 
-Tracklist :
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Hard%20Trance%20010%20-%20DrClaw%20is%20Old%20and%20Hard.mp3)
+
+Tracklist:
 
 ```
 ## - Track Title - Artist

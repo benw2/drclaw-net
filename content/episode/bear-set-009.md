@@ -20,6 +20,8 @@ Recorded Kat's birthday set - only what, 3 months late? Better late than never! 
 
 Right, here's the fixed version - levels should be a bit more agreeable and less clippy 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Bear%20Set%20009%20-%20Kat's%20Birthday%20Set%202014%20V2.0.mp3)
+
 Tracklist :
 
 ```

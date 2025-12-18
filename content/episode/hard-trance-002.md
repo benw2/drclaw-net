@@ -15,6 +15,9 @@ categories = ["Hard Trance"]
 
 As requested, I threw together a quick Hard Trance set. The mixing is a bit FUBAR in places (as I hadn't really planned any of the tracks haha), but here it is for you listening pleasure (pain?) anyways 😉
 
+[Direct Download Link](https://sets.drclaw.net/Hard%20Trance%20002.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

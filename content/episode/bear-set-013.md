@@ -15,6 +15,8 @@ categories = ["Trance"]
 
 Yay Easter! Yay new set!
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Bear%20Set%20013%20-%20Kat&#039;s%20Birthday%20Set%202015.mp3)
+
 Tracklist :
 
 ```

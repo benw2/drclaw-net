@@ -17,6 +17,8 @@ Righto, time for a new set. I've recorded this one a bit louder on advice from m
 
 Anyways, knock yourselves out.
 
+[Direct Download Link](https://sets.drclaw.net/Bear%20Set%20005.mp3)
+
 ```
 ## - Title - Artist
 01 - Maximum - Klauss Goulart

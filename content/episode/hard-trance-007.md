@@ -15,6 +15,9 @@ categories = ["Hard Trance"]
 
 Yay new hard trance! Had some spare time on Friday and threw together a set i've been messing with since NYE - finally decided enough was enough and it was time to mix it 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Hard%20Trance%20007.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

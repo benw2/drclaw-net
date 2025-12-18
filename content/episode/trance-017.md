@@ -14,7 +14,9 @@ categories = ["Trance"]
 
 Yay time to record a new set wheeeeeeeeeeeeeeeeeeeeeeee 🙂
 
-Tracklist :
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20017.mp3)
+
+Tracklist:
 
 ```
 ## - Track Title - Artist

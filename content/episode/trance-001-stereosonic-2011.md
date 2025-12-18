@@ -14,6 +14,9 @@ categories = ["Trance"]
 
 After Stereosonic in 2011 I whipped out this set - it was the first time i&'ve played in front of people before, so the mixing isn&'t as tight as i&'d like, but hey what do you expect? 🙂
 
+[Direct Download Link](https://sets.drclaw.net/Steph's%20Birthday%20Set%202011.mp3)
+
+Tracklist:
 
 ```
 ## - Track Title - Artist

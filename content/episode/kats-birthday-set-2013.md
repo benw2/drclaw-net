@@ -15,7 +15,9 @@ categories = ["Trance"]
 
 Right so I know this is a \*little bit\* late, but I finally got around to recording Kat&#8217;s birthday set last night. Enjoy!
 
-Tracklist :
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Kat's%20Birthday%20Set%202013.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

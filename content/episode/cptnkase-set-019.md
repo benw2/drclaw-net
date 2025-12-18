@@ -14,6 +14,9 @@ categories = ["Trance"]
 
 So some time ago I whipped up a set for CptnKase's birthday - took me a while but I finally uploaded it 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20CptnKase%20Set%20(019).mp3)
+
+Tracklist:
 
 ```
 ## - Track Title - Artist
