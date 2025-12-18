@@ -1,7 +1,7 @@
 +++
 Description = "Bear Set 004"
 Date = 2012-04-18T12:50:03+00:00
-podcast_file = "Bear%20Set%20004.mp3"
+podcast_file = ""
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/default.jpg"
@@ -15,6 +15,7 @@ Here's my latest set I threw together tonite - it's an accumulation of the track
 
 I figured i'd start out with Dido, since it has been bucketing down with rain in Sydney the last few days and my poor girlfriend is stuck in all that bad weather, thought it was strangely appropriate 😉
 
+[Direct Download Link](https://sets.drclaw.net/Bear%20Set%20004.mp3)
 
 ```
 ## - Title - Artist

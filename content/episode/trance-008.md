@@ -17,7 +17,9 @@ Right. So as some of you have noticed, the levels for the quiet bits of [Trance 
 
 Newer version attached.
 
-Tracklist :
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20008%20V2.0.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

@@ -15,6 +15,9 @@ categories = ["Hard Trance"]
 
 Yay new set! Been meaning to throw this together for a while, finally forced myself to do it tonite. Some of the mixes are a bit brutal, but hey it's Hard Trance, why not? 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20Hard%20Trance%20005.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

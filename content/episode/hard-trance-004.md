@@ -19,6 +19,9 @@ Been hanging onto Lift Me Up for a while - finally scored it on vinyl earlier th
 
 I had to do some slight editing - I totally stuffed up the bar counting and dropped in the next track after Lift Me Up 2 bars too late... whoops! So there's a bit of a jump there where I snipped out the extra bars... apart from that it's straight from the decks 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20Hard%20Trance%20004.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

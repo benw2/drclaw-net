@@ -15,8 +15,9 @@ categories = ["Trance"]
 
 Here's my latest mix - leftover songs i've been meaning to put into a set - knock yourselves out 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20007.mp3)
 
-Tracklist :
+Tracklist:
 
 ```
 1 - Hidden Light (Skytech Remix) - M6, Klauss Goulart

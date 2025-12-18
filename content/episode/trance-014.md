@@ -14,7 +14,9 @@ categories = ["Trance"]
 
 Finally got around to recording a new set - been a while since i've touched the decks, so some of the mixes are a bit rough - Good times, good times 🙂
 
-Tracklist : 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20014.mp3)
+
+Tracklist:
 
 ```
 ## - Track Title - Artist

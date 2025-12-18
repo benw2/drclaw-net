@@ -14,7 +14,9 @@ categories = ["Hard Trance"]
 
 Whipped up a new set - Hard Kandy is just around the corner and figured that's as good a reason as any to throw a hard set together 🙂
 
-Tracklist :
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Hard%20Trance%20008.mp3)
+
+Tracklist:
 
 ```
 ## - Title - Artist

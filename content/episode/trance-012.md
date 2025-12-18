@@ -16,8 +16,9 @@ Threw this together a week or so ago, only just got around to uploading it! busy
 
 The mixing isn't as clean as i'd like, but the best I could do given limited time on the decks recently... First world problems 😉 hehe
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20012.mp3)
 
-Tracklist :
+Tracklist:
 
 ```
 ## - Title - Artist

@@ -15,6 +15,10 @@ categories = ["Trance"]
 
 Here's the set I sorted out for my ladyFriend's Unofficial Birthday Gathering
 
+[Direct Download Link](https://sets.drclaw.net/Kat's%20Birthday%20Set%202012-02-25.mp3)
+
+Tracklist:
+
 ```
 ## - Track Title - Artist
 01 - Departures (Cosmic Gate Remix) - Robbie Rivera

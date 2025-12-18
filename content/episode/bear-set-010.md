@@ -1,7 +1,7 @@
 +++
 Description = "Bear Set 010"
 Date = 2014-06-04T05:38:24+00:00
-podcast_file = "http://www.drclaw.net/sets/DrClaw%20-%20Bear%20Set%20010.mp3"
+podcast_file = "DrClaw%20-%20Bear%20Set%20010.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/bear-set-010.jpg"
@@ -13,6 +13,8 @@ categories = ["Trance"]
 
 +++
 Yay more sets! 🙂
+
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Bear%20Set%20010.mp)
 
 Tracklist : 
 
