@@ -14,6 +14,8 @@ categories = ["Trance"]
 
 New set finally! ugh. Hehe
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20020.mp3)
+
 ```
 ## - Track Title - Artist
 01 - Open Your Eyes (The Child You Are) (Markus Schulz & Elevation Remix) - Nalin & Kane

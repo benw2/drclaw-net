@@ -14,6 +14,8 @@ categories = ["Trance"]
 
 Threw together a quick vocal heavy set for our wedding! :D
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20025%20-%20Wedding%202025.mp3)
+
 Tracklist :
 
 ```

@@ -14,6 +14,8 @@ categories = ["Trance"]
 
 Had my birthday a few weeks back, thought i'd throw together a new set. Some of my favourite tracks from the last few years. Enjoy!
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20023%20-%20DrClaw%20is%20old.mp3)
+
 Tracklist :
 
 ```
