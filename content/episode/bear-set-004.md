@@ -1,7 +1,7 @@
 +++
 Description = "Bear Set 004"
 Date = 2012-04-18T12:50:03+00:00
-podcast_file = ""
+podcast_file = "Bear%20Set%20004.mp3"
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/default.jpg"
