@@ -14,6 +14,8 @@ categories = ["Trance"]
 
 Lockdown - what year is it? It's still 2020 right???
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20024.mp3)
+
 Tracklist :
 
 ```

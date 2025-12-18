@@ -14,6 +14,8 @@ categories = ["Trance"]
 
 Iso life! No excuse for not recording a set now hehe 🙂
 
+[Direct Download Link](https://sets.drclaw.net/DrClaw%20-%20Trance%20022.mp3)
+
 Tracklist :
 
 ```
